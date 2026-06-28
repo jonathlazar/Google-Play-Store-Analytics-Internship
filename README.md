@@ -69,37 +69,32 @@ Data Analytics Enthusiast | Python | Data Visualization
 * **GitHub:** https://github.com/jonathlazar
 * **LinkedIn:** https://www.linkedin.com/in/jonath-lazar-data/
 # 📸 Project Screenshots
+# 📸 Project Screenshots
 
 ## Task 1 – Bubble Chart
-![Task 1](<img width="1760" height="535" alt="task1" src="https://github.com/user-attachments/assets/75af4a74-d3a0-4341-837d-846145cbe862" />
-)
+![Task 1](screenshots/task1.png)
 
 ---
 
 ## Task 2 – Choropleth Map
-![Task 2](<img width="1762" height="712" alt="task2" src="https://github.com/user-attachments/assets/56624be1-ae20-428c-b70d-2d1dc836eabb" />
-)
+![Task 2](screenshots/task2.png)
 
 ---
 
 ## Task 3 – Time Series Line Chart
-![Task 3](<img width="1761" height="771" alt="task3" src="https://github.com/user-attachments/assets/d9a4817b-f369-49ea-98a0-3c9d4e65b8db" />
-)
+![Task 3](screenshots/task3.png)
 
 ---
 
 ## Task 4 – Stacked Area Chart
-![Task 4](<img width="1760" height="770" alt="task4" src="https://github.com/user-attachments/assets/b797443b-c010-4b8f-aaf5-01cb7d4b9271" />
-)
+![Task 4](screenshots/task4.png)
 
 ---
 
 ## Task 5 – Grouped Bar Chart
-![Task 5](<img width="1412" height="762" alt="task5" src="https://github.com/user-attachments/assets/f5aa3588-bbf6-446a-b28c-26d17e897bf2" />
-)
+![Task 5](screenshots/task5.png)
 
 ---
 
 ## Task 6 – Dual Axis Chart
-![Task 6](<img width="1245" height="715" alt="task6" src="https://github.com/user-attachments/assets/a88c3cf1-65fc-4330-b863-77d8ac8f7a94" />
-)
+![Task 6](screenshots/task6.png)
